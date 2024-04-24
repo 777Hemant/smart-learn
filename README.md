@@ -2,7 +2,7 @@
 # smart-learn
 
 # Project Description 📝
-StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. <br/>
+Smart Learn is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. <br/>
 The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 <h2>Live link 🌍📡 - [https://smart-learn-edtech-plateform.vercel.app/ ]</h2>
 <hr/>  
@@ -38,7 +38,7 @@ The database for the platform is built using MongoDB, which is a NoSQL database 
 
 ## Architecture Diagram
 <br/>
-Here is a high-level diagram that illustrates the architecture of the StudyNotion ed-tech platform:
+Here is a high-level diagram that illustrates the architecture of the Smart Learn ed-tech platform:
 
 
 <hr/>
